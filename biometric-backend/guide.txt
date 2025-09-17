@@ -1,0 +1,6 @@
+cd biometric-backend
+go mod tidy
+# (opsional) set env kalau port/URL beda
+# set FACE_SERVICE_URL=http://localhost:9000
+go run main.go
+# -> http://localhost:8080/api/health

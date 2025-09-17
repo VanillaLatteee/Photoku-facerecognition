@@ -1,0 +1,14 @@
+{
+  "ids": [
+    0
+  ],
+  "items": [
+    {
+      "row_id": 0,
+      "user_id": "demo-user",
+      "pose": "front",
+      "ts": 1758018590,
+      "file": "1758018590245-demo-user-front.jpg"
+    }
+  ]
+}
